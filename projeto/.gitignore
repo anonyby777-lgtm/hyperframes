@@ -1,0 +1,6 @@
+.venv/
+node_modules/
+analysis/
+assets_ready/
+package-lock.json
+package.json
